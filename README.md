@@ -1,6 +1,6 @@
 # 👋 Hi there
-I'm a frontend developer of web in Taiwan. I enjoy learn new technology and skills of web.📝
 
+Hi! I'm a frontend web developer from Taiwan. I love learning new technologies and continuously upgrading my frontend skills. 📝
 
 ## Skills
 
@@ -22,6 +22,7 @@ I'm a frontend developer of web in Taiwan. I enjoy learn new technology and skil
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="vitest" width="80" height="80"/>
 </p>
 
 ## Tools
@@ -32,6 +33,13 @@ I'm a frontend developer of web in Taiwan. I enjoy learn new technology and skil
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/>
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="80" height="80"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="getpostman" width="80" height="80"/>
+</p>
+
+## Currently Learning
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="80" height="80"/>
 </p>
 
 ## Languages
